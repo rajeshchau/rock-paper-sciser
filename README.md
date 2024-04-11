@@ -9,7 +9,7 @@ The Rock, Paper, Scissors Game simulates the experience of playing the tradition
 ## How to Play
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/rajeshchau/rock-paper-sciser.git
 
 markdown
 Copy code
